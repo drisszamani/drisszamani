@@ -78,35 +78,17 @@ Bridging software engineering with critical infrastructure to build resilient, s
 ## GitHub Analytics
 
 <p align="center">
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=drisszamani&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Driss%20Zamani%20GitHub%20Stats"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisszamani&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=jupyter%20notebook"
-  />
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drisszamani&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisszamani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-
-  <img
-    width="75%"
-    src="https://streak-stats.demolab.com?user=drisszamani&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-  />
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=drisszamani&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-
-  <img
-    width="75%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=drisszamani&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-  />
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=drisszamani&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 ## Philosophy
