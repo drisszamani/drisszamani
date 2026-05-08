@@ -84,7 +84,7 @@ Bridging software engineering with critical infrastructure to build resilient, s
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=driss-zamani&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=drisszamani&theme=transparent&hide_border=true" />
 </p>
 
 ---
