@@ -78,18 +78,35 @@ Bridging software engineering with critical infrastructure to build resilient, s
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drisszamani&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisszamani&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=drisszamani&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="drisszamani trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=drisszamani&theme=github-dark-blue&hide_border=true" />
+  <!-- General Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=drisszamani&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&include_all_commits=true&count_private=true" />
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drisszamani&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" />
+</p>
+
+### ⚡ Contribution Pulse
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=drisszamani&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p>
+
+### 🛠️ Infrastructure & Development Activity
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drisszamani&theme=tokyo-night&area=true&hide_border=true&border_radius=10" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=drisszamani&theme=github-compact&hide_border=true&area=true" />
+  <!-- WakaTime Stats (Optional: Requires WakaTime account linked to GitHub) -->
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=drisszamani&theme=tokyonight&layout=compact&border_radius=10" alt="WakaTime Stats" />
 </p>
+
+---
 
 ## Philosophy
 
