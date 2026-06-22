@@ -1,7 +1,7 @@
 <h1 align="center">Driss Zamani</h1>
 
 <h3 align="center">
-Data Center & OT Infrastructure Engineer
+Data Center & OT Network Engineer
 </h3>
 
 <p align="center">
@@ -12,7 +12,7 @@ Bridging software engineering with critical infrastructure to build resilient, s
 
 ## About Me
 
-- Data Center & OT Infrastructure Engineer based in Morocco
+- Data Center & OT Network Engineer based in Morocco
 - Building software platforms for datacenter operations, compliance, and infrastructure management
 - Focused on critical infrastructure, observability, automation, and resilient architectures
 - Passionate about engineering systems that combine infrastructure reliability with modern software design
